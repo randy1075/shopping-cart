@@ -1,0 +1,58 @@
+header{
+	font-size: 10px;
+	text-align: center;
+	transition: 1s ease;
+	color: black,gray;
+}
+.intro{
+	font-size: 10px;
+	text-align: center;
+	transition: 1s ease;
+	color: black,gray;
+}
+.cart{
+	color: orange;
+	background-color: orange;
+	height: 110px;
+	display: block;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;	
+	margin-bottom: 20px;
+	border: .5px solid black;
+}
+.Banner{
+	color: #b6732f;
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 70px;
+	text-align: left;
+	height: 3px;
+}
+.name{
+ 	font-size: 23px;
+ 	text-indent: 2cm;
+	border-top: 3px solid black;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.description{
+	font-size: 16.5px;
+	text-indent: 1cm;
+	margin-top: 15px;
+	margin-bottom: 1px;
+}
+img{
+ 	width: 130px;
+ 	height: 130px;	
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.price{
+	font-size: 20px;
+	text-align: right;
+	padding-right: 4cm;
+	margin-top: 0px;
+	margin-bottom: 1px;
+}
+
