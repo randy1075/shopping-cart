@@ -46,6 +46,15 @@ for(var i = 0; i < storeDiv.length; i++){
 }
 
 
+var numbers = [1.11, 39.57, 8.88, 9.29, 2.33, 599.99];
+
+function getSum(total, num) {
+    return total + num;
+    
+}
+function myFunction(item) {
+    document.getElementById("demo").innerHTML = numbers.reduce(getSum);
+}
 
 
 
